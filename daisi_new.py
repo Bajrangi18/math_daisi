@@ -1,2 +1,2 @@
-def printNew():
-  return "Hello"
+def printNew(name):
+  return "Hello"+name
